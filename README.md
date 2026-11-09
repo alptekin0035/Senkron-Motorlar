@@ -1,0 +1,2 @@
+# Senkron-Motorlar
+Senkron Motorlar
